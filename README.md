@@ -1,4 +1,4 @@
-# BeatSaberOpenXRTest
+# BeatSaberUnityXRTest
 Small mod for testing Unity XR in Beat Saber.
 
 # Usage
