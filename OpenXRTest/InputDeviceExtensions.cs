@@ -11,7 +11,7 @@ namespace OpenXRTest
     {
         public static void PrintDeviceInfo(this InputDevice device)
         {
-            Plugin.log.Error($"{device.name} | {device.serialNumber}");
+            Plugin.log.Warn($"{device.name} | {device.serialNumber}");
             Plugin.log.Info($"Characteristics: {device.characteristics}");
             Plugin.log.Info($"isValid: {device.isValid}");
 #pragma warning disable CS0618 // Type or member is obsolete

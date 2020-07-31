@@ -16,16 +16,19 @@ namespace OpenXRTest
 
         private void InputDevices_deviceConfigChanged(InputDevice obj)
         {
+            Plugin.log.Info("----Device Config Changed----");
             obj.PrintDeviceInfo();
         }
 
         private void InputDevices_deviceDisconnected(InputDevice obj)
         {
+            Plugin.log.Info("----Device Disconnected----");
             obj.PrintDeviceInfo();
         }
 
         private void InputDevices_deviceConnected(InputDevice obj)
         {
+            Plugin.log.Info("----Device Connected----");
             obj.PrintDeviceInfo();
         }
 
