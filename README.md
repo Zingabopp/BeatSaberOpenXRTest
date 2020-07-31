@@ -1,5 +1,5 @@
 # BeatSaberOpenXRTest
-Small mod for testing OpenXR in Beat Saber.
+Small mod for testing Unity XR in Beat Saber.
 
 # Usage
 * Device info is printed when a device is connected, disconnected, or had its config changed.
