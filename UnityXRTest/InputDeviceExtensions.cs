@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using UnityEngine.XR;
 
-namespace OpenXRTest
+namespace UnityXRTest
 {
     public static class InputDeviceExtensions
     {

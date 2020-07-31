@@ -2,7 +2,7 @@
 using UnityEngine;
 using IPALogger = IPA.Logging.Logger;
 
-namespace OpenXRTest
+namespace UnityXRTest
 {
     [Plugin(RuntimeOptions.SingleStartInit)]
     public class Plugin

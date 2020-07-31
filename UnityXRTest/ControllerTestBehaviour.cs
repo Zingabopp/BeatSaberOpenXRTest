@@ -5,7 +5,7 @@ using System.Text;
 using UnityEngine;
 using UnityEngine.XR;
 
-namespace OpenXRTest
+namespace UnityXRTest
 {
     /// <summary>
     /// Monobehaviours (scripts) are added to GameObjects.

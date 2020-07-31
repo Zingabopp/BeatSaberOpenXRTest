@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "UnityXRTest",
+  "name": "UnityXRTest",
+  "author": "Zingabopp",
+  "version": "1.0.0",
+  "description": "A small mod to test Unity XR.",
+  "gameVersion": "1.10.0",
+  "dependsOn": {
+
+  },
+  "features": []
+}
